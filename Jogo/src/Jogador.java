@@ -57,7 +57,7 @@ public class Jogador {
         this.xp += pontos;
     }
 
-    public void recerAntidoto() {
+    public void receberAntidoto() {
         envenenado =! envenenado;
     }
 
